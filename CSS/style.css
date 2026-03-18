@@ -77,6 +77,7 @@ footer {
     font-size: 0.9rem;
 }
 
+/* FIXED (removed comma) */
 @keyframes fadeIn {
     from {
         opacity: 0;
